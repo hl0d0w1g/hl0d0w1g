@@ -3,6 +3,7 @@ My name is Luis, I'm from Spain 🇪🇸 and I'm a Machine Learning Engineer �
 
 - Currently working for @VASS as ML Engineer, involved in both programing and business-decision tasks
 - Passionate about artificial intelligence and computer science in general
+- Currently learning about MLOps
 
 ## Skills 💡
 - Machine and Deep Learning algorithems
