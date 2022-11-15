@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Luis, I'm from Spain 🇪🇸 and I'm a Machine Learning Engineer 👨‍💻
 
-- Currently working for @VASS as ML Engineer, involved in both programing and business-decision tasks
+- Currently working for @Bosonit as ML Engineer, involved in both programing and business-decision tasks
 - Passionate about artificial intelligence and computer science in general
 - Currently learning about MLOps
 
@@ -10,6 +10,10 @@ My name is Luis, I'm from Spain 🇪🇸 and I'm a Machine Learning Engineer �
 - Strong Python coding
 - Google Cloud
 - Critical thinking, decision-making and problem solving skills
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lcambero&show_icons=true" alt="lcambero"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcambero&layout=compact&hide=html" alt="lcambero"/></p>
+<br></br>
 
 ## Contact 📞
 Find all my socials and more info about my background in my [website](https://lcambero.github.io/)
