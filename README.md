@@ -11,9 +11,12 @@ My name is Luis, I'm from Spain 🇪🇸 and I'm a Machine Learning Engineer �
 - Google Cloud
 - Critical thinking, decision-making and problem solving skills
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lcambero&show_icons=true" alt="lcambero"/></p>
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lcambero&show_icons=true" alt="lcambero"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcambero&layout=compact&hide=html" alt="lcambero"/></p>
 <br></br>
+-->
 
 ## Contact 📞
 Find all my socials and more info about my background in my [website](https://lcambero.github.io/)
