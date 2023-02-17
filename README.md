@@ -19,7 +19,7 @@ My name is Luis, I'm from Spain 🇪🇸 and I'm a Machine Learning Engineer �
 -->
 
 ## Contact 📞
-Find all my socials and more info about my background in my [website](https://lcambero.github.io/)
+Find all my socials and more info about my background in my [website](camberopiqueras.com)
 
 <!--
 **lcambero/lcambero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
