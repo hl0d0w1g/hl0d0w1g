@@ -20,7 +20,6 @@ My name is Luis, I'm from Spain 🇪🇸 and I'm a Machine Learning Engineer �
 </p>
 <p><img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=hl0d0w1g&show_icons=true" alt="hl0d0w1g"/></p>
 <p><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hl0d0w1g&layout=compact&hide=html" alt="hl0d0w1g"/></p>
-<br></br>
 
 ## 📞 Contact 
 Find all my socials and more info about my background in my [website](https://camberopiqueras.com)
