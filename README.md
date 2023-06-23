@@ -1,9 +1,9 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">
+# Hi there <img src="https://raw.githubusercontent.com/hl0d0w1g/hl0d0w1g.github.io/master/images/hello.gif" width="30px" height = "30px">
 [![Github](https://img.shields.io/github/followers/hl0d0w1g?label=Follow&style=social)](https://github.com/hl0d0w1g)
 
 My name is Luis, I'm from Spain and I'm a Machine Learning Engineer 👨‍💻
 
-- Currently working for @Bosonit as ML Engineer, involved in both programming and business-decision tasks
+- Currently working for [@Bosonit](https://bosonit.com/) as ML Engineer, involved in both programming and business-decision tasks
 - Passionate about artificial intelligence and computer science in general
 - Currently learning about MLOps
 
@@ -22,7 +22,11 @@ My name is Luis, I'm from Spain and I'm a Machine Learning Engineer 👨‍💻
 <p><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hl0d0w1g&layout=compact&hide=html" alt="hl0d0w1g"/></p>
 -->
 ## 📞 Contact 
-Find all my socials and more info about my background on my [website](https://camberopiqueras.com)
+Twitter:
+Linkedin:
+Email:
+
+Find more info about my socials and background on my [website](https://camberopiqueras.com).
 
 <!--
 **lcambero/lcambero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
